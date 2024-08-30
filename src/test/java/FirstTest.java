@@ -15,6 +15,7 @@ public class FirstTest {
         System.out.println(page_title);
         System.out.println(driver.getCurrentUrl());
         driver.close();
+    System.out.println("hello world");
         
     }
 
